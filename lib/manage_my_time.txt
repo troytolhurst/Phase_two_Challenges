@@ -1,0 +1,18 @@
+manage my team: 
+see an estimate of reading time for texts assuming i can read 200wpm 
+
+function name:
+def manage_my_time():
+parameters: 
+take a string
+reading speed as integer 
+function: 
+divide it by reading speed
+return:
+time in minutes that it would take to read the string
+datatype for return float because of the division
+
+tests: 
+
+
+
