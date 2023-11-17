@@ -1,0 +1,17 @@
+user story: 
+As a user
+So that I can keep track of my music listening
+I want to add tracks I've listened to and see a list of them.
+
+class Signature: 
+add music to a libary so i can keep track of what im listening too
+libary will be stored in a dict with artist as key
+potential to have multiple songs under one artist achieved with a list inside dict
+functions inside class: 
+add function: take artist and songname as arguments no return
+list function: no arguments, returns a list of artists and songs
+remove function: takes artist name and song to remove.
+
+additional extras: 
+search by artist could be a feature.
+
