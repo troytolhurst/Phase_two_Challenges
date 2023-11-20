@@ -1,0 +1,16 @@
+Design Recipe for Music Library: 
+As a user
+So that I can keep track of my music listening
+I want to add tracks I've listened to and see a list of them.
+
+Class design: 
+function: Store the music i like. store as a dict. see a list of the music
+im listening too. 
+Done: add music to the list: Takes artist and song name and stores in dict
+Done:search by artist: takes artist name, returns list of songs by that artist
+remove function: removes songs by an artist or if no songs left removes the artist
+Done:list function: takes no arguments, returns the whole dict with artists and songs
+
+additional features?
+stores multiple songs under one artist as a list
+
